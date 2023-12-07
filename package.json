@@ -40,6 +40,7 @@
     "date-fns": "^2.30.0",
     "expo": "50.0.0-canary-20231205-250b31f",
     "expo-build-properties": "0.0.1-canary-20231205-250b31f",
+    "expo-dev-client": "0.0.1-canary-20231205-250b31f",
     "expo-font": "0.0.1-canary-20231205-250b31f",
     "expo-linking": "0.0.1-canary-20231205-250b31f",
     "expo-localization": "0.0.1-canary-20231205-250b31f",
